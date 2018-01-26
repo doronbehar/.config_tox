@@ -3,3 +3,4 @@ DHTnodes.json
 *.QRcode.png
 [0-9A-F]*.new.txt
 tox_save.tox
+qtox.ini
